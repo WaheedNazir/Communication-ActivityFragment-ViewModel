@@ -7,7 +7,7 @@ Communication between
  2. Activities and Fragments
 
 ### Demo
-<img src="https://github.com/WaheedNazir/Communication-ActivityFragment-ViewModel/blob/master/images/sample_demo.gif" />
+<img height="700px" src="https://github.com/WaheedNazir/Communication-ActivityFragment-ViewModel/blob/master/images/sample_demo.gif" />
 
 ### Other samples of MVVM using Kotlin
 
